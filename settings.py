@@ -1,7 +1,7 @@
 api_v = '5.21'
-token = ('',
+token = ('cd42907bad0202cd43aa6a7fdd8d352fafe9e9821441869eb4e25c3794951446ae6a1aed27395ec45b7d7',
 		)
-my_id = '' 
+my_id = '541876689' 
 deep = 2
 broker = {'user': '', 'password':'', 'ip':'', 'vhost':'vk_friends'}
 backend = broker
